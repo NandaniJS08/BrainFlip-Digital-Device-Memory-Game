@@ -34,5 +34,10 @@ Perfect for:
 - STEM activities  
 - classroom warm-ups  
 - digital learning workshops  
-- educational events & exhibitions  
+- educational events & exhibitions
+--- 
+## 🚀 Live Demo
+Play the **BrainFlip Digital Memory Game** online now!  
+ [🎮 Click here to play!](https://nandanijs08.github.io/BrainFlip-Digital-Device-Memory-Game/)
+
 
